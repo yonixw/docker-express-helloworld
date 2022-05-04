@@ -1,1 +1,3 @@
-# dockerize-node-hello-world
+# docker-express-helloworld
+
+Fast node express for prototyping
